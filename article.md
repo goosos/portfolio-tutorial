@@ -4,7 +4,7 @@
 
 > **✅ Tested:** vectorbt 1.1.1 · Python 3.12 · Last verified: 2026-10-08 · [Update policy](https://goosos.com/about#freshness)
 
-> **📊 Market snapshot** (as of 2026-10-08): SPY $777.22 · QQQ $757.73 · BTC $82,886 · ETH $2,569 — for context on when this was written.
+> **📊 Market snapshot** (as of 2026-10-08): SPY $777.22 · QQQ $757.73 · BTC $82,946 · ETH $2,571 — for context on when this was written.
 
 **Target keyword:** multi-strategy portfolio correlation diversification
 **Meta description:** One good strategy is fragile. Combine uncorrelated strategies and the portfolio Sharpe beats every component. Real test: three SPY strategies, Sharpe 1.10 → 1.35.
